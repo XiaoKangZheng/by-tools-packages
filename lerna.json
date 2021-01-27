@@ -1,0 +1,18 @@
+{
+  "packages": [
+    "packages/by-tools-base",
+    "packages/by-tools-request"
+  ],
+  "version": "0.0.1",
+  "npmClient": "npm",
+  "command": {
+    "publish": {
+      "registry": "http://61.155.161.82",
+      "ignoreChanges": [
+        "*.md",
+        "**/test/**"
+      ],
+      "message": "chore(release): publish"
+    }
+  }
+}

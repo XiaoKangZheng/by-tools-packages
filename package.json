@@ -1,0 +1,7 @@
+{
+  "name": "by-tools-package",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

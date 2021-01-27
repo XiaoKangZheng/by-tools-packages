@@ -12,17 +12,17 @@
 # Ignore all local history of files
 .history
 
-### macOS ###
-# General
-.DS_Store
-.AppleDouble
-.LSOverride
-
 # End of https://www.gitignore.io/api/visualstudiocode
 
-node_modules/
+* node_modules/
 package-lock.json
 dist/
 .vscode/
 _intermediate/
 .husky
+
+##----------Other----------
+# osx
+*~
+.DS_Store
+gradle.properties
