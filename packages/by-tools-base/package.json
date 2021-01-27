@@ -1,6 +1,6 @@
 {
   "name": "@by-tools/base",
-  "version": "1.1.31",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/by-tools-base.js",
   "types": "./types/module.d.ts",
