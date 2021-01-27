@@ -1,18 +1,28 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Created by https://www.gitignore.io/api/visualstudiocode
+# Edit at https://www.gitignore.io/?templates=visualstudiocode
 
-# Other files and folders
-.settings/
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# End of https://www.gitignore.io/api/visualstudiocode
+
+node_modules/
+package-lock.json
+dist/
+.vscode/
+_intermediate/
+.husky
