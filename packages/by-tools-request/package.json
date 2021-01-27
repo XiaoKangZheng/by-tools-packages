@@ -1,5 +1,5 @@
 {
-    "name": "by-tools-request",
+    "name": "@by-tools/maple-request",
     "version": "1.0.10",
     "description": "Axios Request Manager for Vue",
     "main": "dist/by-tools-request.js",

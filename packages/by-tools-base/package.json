@@ -1,5 +1,5 @@
 {
-  "name": "by-tools-base",
+  "name": "@by-tools/base",
   "version": "1.1.31",
   "description": "",
   "main": "dist/by-tools-base.js",
